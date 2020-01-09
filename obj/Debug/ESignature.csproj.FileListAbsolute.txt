@@ -1,0 +1,14 @@
+C:\Users\Maxim\source\repos\ImageStudying\ESignature\bin\Debug\ESignature.exe.config
+C:\Users\Maxim\source\repos\ImageStudying\ESignature\bin\Debug\ESignature.exe
+C:\Users\Maxim\source\repos\ImageStudying\ESignature\bin\Debug\ESignature.pdb
+C:\Users\Maxim\source\repos\ImageStudying\ESignature\obj\Debug\ESignature.csprojAssemblyReference.cache
+C:\Users\Maxim\source\repos\ImageStudying\ESignature\obj\Debug\ESignature.Properties.Resources.resources
+C:\Users\Maxim\source\repos\ImageStudying\ESignature\obj\Debug\ESignature.csproj.GenerateResource.cache
+C:\Users\Maxim\source\repos\ImageStudying\ESignature\obj\Debug\ESignature.exe
+C:\Users\Maxim\source\repos\ImageStudying\ESignature\obj\Debug\ESignature.pdb
+C:\Users\Maxim\source\repos\ImageStudying\ESignature\obj\Debug\ESignature.ESignature.resources
+C:\Users\Maxim\source\repos\ImageStudying\ESignature\bin\Debug\MySql.Data.dll
+C:\Users\Maxim\source\repos\ImageStudying\ESignature\bin\Debug\Google.Protobuf.dll
+C:\Users\Maxim\source\repos\ImageStudying\ESignature\bin\Debug\MySql.Data.xml
+C:\Users\Maxim\source\repos\ImageStudying\ESignature\obj\Debug\ESignature.csproj.CopyComplete
+C:\Users\Maxim\source\repos\ImageStudying\ESignature\obj\Debug\ESignature.Form1.resources
